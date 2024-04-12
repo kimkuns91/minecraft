@@ -42,3 +42,36 @@ ls
 cd world
 ls
 cd ..
+ls
+open logs
+cd logs
+ls
+cat latest.log
+cat 2024-02-20-1.log.gz~
+gunzip 2024-02-20-1.log.gz~
+gunzip 2024-02-20-1.log.gz
+ㅣㄴ
+ls
+cat 2024-02-20-1.log
+less 2024-02-20-1.log
+cd ../
+ls
+git init
+git add .
+git init
+git --version
+sudo apt-get update
+sudo gpt-get update
+sudo yum update -y
+sudo yum install git -y
+git --version
+git config --global user.name 'kun woo kim'
+git config --global user.email 'kimkuns98@gmail.com'
+git add .
+git init
+ls
+git add .
+git commit -m 'wow'
+git branch -M main
+git remote add origin https://github.com/kimkuns91/minecraft.git
+git push -u origin main

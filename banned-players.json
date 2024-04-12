@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "ab18f048-b7b3-433d-a013-5e2f8b833c49",
+    "name": "Wipponymouse",
+    "created": "2024-02-21 14:46:37 +0000",
+    "source": "TinyWhiteMouse",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
